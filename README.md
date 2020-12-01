@@ -1,13 +1,13 @@
 # Component Library
 
 # StoryBook Features 
--Buttons
--Checkbox
--Counter
--Forms
--Select
--Thumbnail
--Voucher
+- Buttons
+- Checkbox
+- Counter
+- Forms
+- Select
+- Thumbnail
+- Voucher
 
 # Used 
 - React
