@@ -1,5 +1,6 @@
 {
-  "name": "Component-Library",
+  "name": "component-library",
+  "homepage": "http://jeremiahsalley.github.io/Component-Library/storybook-build",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
