@@ -10,10 +10,10 @@
 -Voucher
 
 # Used 
--React
--JavaScript 
--Npm 
--Storybook
+- React
+- JavaScript 
+- Npm 
+- Storybook
 
 # Deployed 
 https://jeremiahsalley.github.io/Component-Library/storybook-build
